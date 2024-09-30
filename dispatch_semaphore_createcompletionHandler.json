@@ -1,14 +1,10 @@
 [
     {
-        "password": "1",
-        "udid": "32D42185-7881-4C55-AAF5-1A0F58ED7DC9"
+        "serial": "SERIAL_NUMBER_EXEMPLO",
+        "password": "sua_senha_aqui"
     },
     {
-        "password": "w",
-        "udid": "E725F401-B642-4307-8566-85AE93157F92"
-    },
-    {
-        "password": "K",
-        "udid": "UDID3"
+        "serial": "OUTRO_SERIAL_NUMBER",
+        "password": "outra_senha_aqui"
     }
 ]
