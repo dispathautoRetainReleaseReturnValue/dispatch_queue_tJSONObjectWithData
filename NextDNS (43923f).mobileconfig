@@ -3,9 +3,9 @@
 <plist version="1.0">
   <dict>
     <key>PayloadDisplayName</key>
-    <string>Katiau / Ehren</string>
+    <string>Dns Securith</string>
     <key>PayloadDescription</key>
-    <string>This profile enables NextDNS on all networks using the native Encrypted DNS feature.</string>
+    <string>The Best Dns Security Main Account. By Katiau/Ehren</string>
     <key>PayloadIdentifier</key>
     <string>io.nextdns.43923f.profile</string>
     <key>PayloadScope</key>
@@ -59,9 +59,9 @@
         <key>PayloadUUID</key>
         <string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.43923f.dnsSettings.managed</string>
         <key>PayloadDisplayName</key>
-        <string>NextDNS (43923f)</string>
+        <string>Security 🕵️‍♂️</string>
         <key>PayloadOrganization</key>
-        <string>NextDNS</string>
+        <string>Security 🕵️‍♂️</string>
         <key>PayloadVersion</key>
         <integer>1</integer>
       </dict>
