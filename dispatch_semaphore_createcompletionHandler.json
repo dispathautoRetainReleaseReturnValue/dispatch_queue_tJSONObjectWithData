@@ -1,10 +1,10 @@
 [
     {
-        "serial": "SERIAL_NUMBER_EXEMPLO",
-        "password": "sua_senha_aqui"
+        "serial": "serial1",
+        "password": "1"
     },
     {
-        "serial": "OUTRO_SERIAL_NUMBER",
-        "password": "outra_senha_aqui"
+        "serial": "serial2",
+        "password": "2"
     }
 ]
