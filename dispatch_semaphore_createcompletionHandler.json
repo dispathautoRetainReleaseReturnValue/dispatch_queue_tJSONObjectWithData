@@ -1,10 +1,14 @@
 [
     {
-        "serial": "GHLWW0ERJCLH",
-        "password": "1"
+        "password": "senha1",
+        "udids": ["UDID1", "UDID2", "UDID3"]
     },
     {
-        "serial": "serial2",
-        "password": "2"
+        "password": "senha2",
+        "udids": ["UDID4", "UDID5"]
+    },
+    {
+        "password": "senha3",
+        "udids": ["UDID6"]
     }
 ]
