@@ -1,14 +1,14 @@
 [
     {
-        "password": "senha1",
+        "password": "a",
         "udids": ["UDID1", "UDID2", "UDID3"]
     },
     {
-        "password": "senha2",
+        "password": "b",
         "udids": ["UDID4", "UDID5"]
     },
     {
-        "password": "senha3",
+        "password": "c",
         "udids": ["UDID6"]
     }
 ]
