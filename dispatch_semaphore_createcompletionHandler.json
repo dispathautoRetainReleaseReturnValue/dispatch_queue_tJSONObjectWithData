@@ -1,7 +1,7 @@
 [
     {
         "password": "12",
-        "udids": ["55E9EEBD-5B58-4C38-B66C-90333DCF57DF", "E725F401-B642-4307-8566-85AE93157F92", "UDID3"]
+        "udids": ["C4ED693B-8245-4C8D-BA72-3BFCDDA13063", "E725F401-B642-4307-8566-85AE93157F92", "UDID3"]
     },
     {
         "password": "GUH-826382",
@@ -9,6 +9,6 @@
     },
     {
         "password": "1",
-        "udids": ["C4ED693B-8245-4C8D-BA72-3BFCDDA13063", "teste", "teste"]
+        "udids": ["C4ED693B-8245-4C8D-BA72-3BFCDDA13063", "C4ED693B-8245-4C8D-BA72-3BFCDDA13063", "C4ED693B-8245-4C8D-BA72-3BFCDDA13063"]
     }
 ]
