@@ -1,18 +1,18 @@
 [
     {
-        "password": "katiau",
-        "udids": ["056218F6-E5C3-40D4-AE78-C276A3F0573E", "E725F401-B642-4307-8566-85AE93157F92", "UDID3"]
+        "password": "12",
+        "udids": ["056218F6-E5C3-40D4-AE78-C276A3F0573E", "none", "none"]
+    },
+    {
+        "password": "GUH-826382",
+        "udids": ["84C7DDF7-98E1-423C-BA73-D03DCB103E0E", "none", "none"]
+    },
+    {
+        "password": "1",
+        "udids": ["6342F9FA-B5FB-433B-A3B8-0677DC5EFEF0", "none", "none"]
     },
     {
         "password": "ehren",
-        "udids": ["84C7DDF7-98E1-423C-BA73-D03DCB103E0E", "sad", "UDID3"]
-    },
-    {
-        "password": "0",
-        "udids": ["6342F9FA-B5FB-433B-A3B8-0677DC5EFEF0", "C4ED693B-8245-4C8D-BA72-3BFCDDA13063", "C4ED693B-8245-4C8D-BA72-3BFCDDA13063"]
-    },
-    {
-        "password": "0",
-        "udids": ["E725F401-B642-4307-8566-85AE93157F92", "C4ED693B-8245-4C8D-BA72-3BFCDDA13063", "C4ED693B-8245-4C8D-BA72-3BFCDDA13063"]
+        "udids": ["E725F401-B642-4307-8566-85AE93157F92", "none", "none"]
     }
 ]
