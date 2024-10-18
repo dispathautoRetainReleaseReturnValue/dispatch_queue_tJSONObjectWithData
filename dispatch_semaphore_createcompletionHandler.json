@@ -16,8 +16,8 @@
         "udids": ["F1FF7EB4-7555-45D7-A833-1125AFAD978C", "544F885E-BCD9-4056-83E6-4536F9298BF5", "none"]
     },
     {
-        "password": "#boruto",
-        "udids": ["#7C068922-0D0C-4C09-A0FD-CA4208DEADD1", "none", "none"]
+        "password": "boruto",
+        "udids": ["7C068922-0D0C-4C09-A0FD-CA4208DEADD1", "none", "none"]
     },
     {
         "password": "12",
